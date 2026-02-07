@@ -129,7 +129,7 @@ PUT /api/employees/{id}: Update employee details.
 
 Folder Structure
 Backend
-
+```bash
 backend
 │
 ├── src
@@ -155,6 +155,7 @@ frontend
 │   ├── services (API calls using Axios)
 │   └── App.js (Main app component)
 └── package.json (NPM package configuration)
+```
 
 How JWT Authentication Works
 
