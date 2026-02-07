@@ -4,7 +4,7 @@ const FooterComponent = () => {
   return (
     <div>
         <footer className='footer'>
-            <span>All rights reserved 2023 by javaguides</span>
+            <span>Java With Docker-Docker Compose- Kubernates</span>
         </footer>
 
     </div>
